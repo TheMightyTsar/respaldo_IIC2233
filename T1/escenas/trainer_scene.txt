@@ -1,0 +1,10 @@
+*** Menú Entrenador ***
+---------------------------
+[1] Entrenamiento
+[2] Simular ronda
+[3] Resumen campeonato
+[4] Crear objetos
+[5] Utilizar objeto
+[6] Estado entrenador
+[v] Volver
+[s] Salir

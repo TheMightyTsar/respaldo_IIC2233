@@ -1,0 +1,6 @@
+------Star Advanced-----
+--[fila, columna] [descubre un sector]--
+--[1] [guardar partida]--
+
+--[2] [salir y guardar]--
+--[s] [Salir sin guardar]--

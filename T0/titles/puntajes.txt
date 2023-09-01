@@ -1,0 +1,4 @@
+------Star Advanced-----
+   ------Ranking-----
+   ------[v] [volver]-----
+   ------[s] [Salir]------

@@ -1,0 +1,6 @@
+   ------Star Advanced-----
+--Partida cargada exitosamente--
+--[1] [Jugar]--
+
+   ------[v] [volver]-----
+   ------[s] [Salir]------

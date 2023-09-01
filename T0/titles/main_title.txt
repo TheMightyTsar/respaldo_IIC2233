@@ -1,0 +1,6 @@
+------Star Advanced-----
+--selecciona una opcion--
+--[1] [Nueva Partida]--
+--[2] [Cargar Partida]--
+--[3] [Ranking de Puntajes]--
+------[s] [Salir]------

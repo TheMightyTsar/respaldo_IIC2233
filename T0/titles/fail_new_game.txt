@@ -1,0 +1,5 @@
+------Star Advanced-----
+intenta nuevamente
+No puedes usar ese nombre ):
+   ------[v] [volver]-----
+   ------[s] [Salir]------

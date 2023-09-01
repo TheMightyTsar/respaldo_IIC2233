@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>800</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>800</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="fondo">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>800</width>
+      <height>600</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>800</width>
+      <height>600</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>800</width>
+      <height>600</height>
+     </size>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sprites/Fondos/fondoMenu.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>0</y>
+      <width>251</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../sprites/Elementos de juego/logo.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>180</y>
+      <width>271</width>
+      <height>321</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="1" column="0">
+      <widget class="QLabel" name="label_4">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;
+background-color: rgb(0, 117, 0);</string>
+       </property>
+       <property name="text">
+        <string>soles restantes</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLabel" name="soles">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 12pt &quot;Impact&quot;;</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QLabel" name="label_2">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;
+background-color: rgb(0, 117, 0);</string>
+       </property>
+       <property name="text">
+        <string>ronda actual</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QLabel" name="label_10">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;
+background-color: rgb(0, 117, 0);</string>
+       </property>
+       <property name="text">
+        <string>puntaje total</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QLabel" name="puntaje_ronda">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 12pt &quot;Impact&quot;;</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="1">
+      <widget class="QLabel" name="puntaje_total">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 12pt &quot;Impact&quot;;</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLabel" name="label_6">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;
+background-color: rgb(0, 117, 0);</string>
+       </property>
+       <property name="text">
+        <string>zombies destruidos</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLabel" name="z_destruidos">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 12pt &quot;Impact&quot;;</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLabel" name="label_8">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;
+background-color: rgb(0, 117, 0);</string>
+       </property>
+       <property name="text">
+        <string>puntaje ronda</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLabel" name="ronda">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 255, 255);
+font: 12pt &quot;Impact&quot;;</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="continuar">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>540</y>
+      <width>171</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;
+background-color: rgb(0, 117, 0);</string>
+    </property>
+    <property name="text">
+     <string>siguiente ronda</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="derrota">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>120</y>
+      <width>411</width>
+      <height>48</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(170, 0, 0);
+color: rgb(255, 255, 255);
+font: 9pt &quot;Ravie&quot;;;</string>
+    </property>
+    <property name="text">
+     <string>has perdido, los zombies alcanzaron a DCCruz :(</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="victoria">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>120</y>
+      <width>341</width>
+      <height>48</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(85, 170, 0);
+color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;</string>
+    </property>
+    <property name="text">
+     <string>has ganado, defendiste a DCCruz :D</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="volver_menu">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>540</y>
+      <width>171</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+font: 10pt &quot;Ravie&quot;;;
+background-color: rgb(0, 117, 0);</string>
+    </property>
+    <property name="text">
+     <string>volver al menu</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

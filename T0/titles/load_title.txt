@@ -1,0 +1,5 @@
+    ------Star Advanced-----
+--[ ingresa tu nombre joven Prograwan]--
+
+    ------[v] [volver]-----
+    ------[s] [Salir]------

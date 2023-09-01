@@ -1,0 +1,6 @@
+{
+  "HOST": "localhost",
+  "PORT": 47371,
+  "ERROR_USER_LARGO": "largo de caracteres invalido",
+  "ERROR_USER_USED": "nombre de usuario ya usado"
+}

@@ -1,0 +1,8 @@
+------Star Advanced-----
+Bienvenido prograwan
+Ingresa el largo y ancho de tu tablero
+usando numeros y separandolos con una coma, ocupa valores del 3 al 15
+ej: 5,6 -> tablero de largo 5 y ancho 6
+
+   ------[v] [volver]-----
+   ------[s] [Salir]------

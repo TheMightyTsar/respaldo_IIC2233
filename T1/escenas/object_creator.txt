@@ -1,0 +1,8 @@
+*** Crear Objetos ***
+---------------------------
+[0] Baya
+[1] Poción
+[2] Caramelo
+
+[v] Volver
+[s] Salir

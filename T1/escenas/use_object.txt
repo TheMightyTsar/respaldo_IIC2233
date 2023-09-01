@@ -1,0 +1,4 @@
+*** Objetos disponibles ***
+---------------------------
+[v] Volver
+[s] Salir

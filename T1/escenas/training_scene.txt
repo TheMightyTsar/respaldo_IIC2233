@@ -1,0 +1,4 @@
+*** Menú de entrenamiento ***
+--------------------------------
+[v] Volver
+[s] Salir

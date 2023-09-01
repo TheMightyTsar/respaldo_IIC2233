@@ -1,0 +1,4 @@
+*  *** Elige tu luchador ***  *
+--------------------------------
+[v] Volver
+[s] Salir

@@ -1,0 +1,14 @@
+{
+  "HOST": "localhost",
+  "PORT": 47371,
+  "MIN_USER_L": 1,
+  "MAX_USER_L": 10,
+  "CUENTA_REGRESIVA_INICIO": 15,
+  "BARAJA_PANTALLA": 4,
+  "CARTAS_USER": 15,
+  "CUENTA_REGRESIVA_RONDA": 10,
+  "RUTA_VENTANA_INICIO": "frontend/assets/ventanaInicio.ui",
+  "RUTA_VENTANA_ESPERA": "frontend/assets/ventanaEspera.ui",
+  "RUTA_VENTANA_JUEGO": "frontend/assets/ventanaJuego.ui",
+  "RUTA_VENTANA_FINAL": "frontend/assets/ventanaFinal.ui"
+}
